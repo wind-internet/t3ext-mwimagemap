@@ -1,0 +1,3 @@
+plugin.tx_mwimagemap_pi1 {
+	template = {$plugin.mwimagemap.template}
+}

@@ -1,0 +1,4 @@
+plugin.mwimagemap {
+	template = EXT:mwimagemap/pi1/template.html
+	javascript = typo3conf/ext/mwimagemap/res/js/mwimagemap.js
+}

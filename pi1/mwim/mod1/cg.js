@@ -1,0 +1,1 @@
+content.group_change = function(a,b,c,d) { alert("test"); }

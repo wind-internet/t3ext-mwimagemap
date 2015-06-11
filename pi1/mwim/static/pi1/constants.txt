@@ -1,0 +1,3 @@
+plugin.mwimagemap {
+	template = EXT:mwimagemap/pi1/template.html
+}
